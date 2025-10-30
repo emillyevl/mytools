@@ -13,10 +13,3 @@ def e_real(N):
 	if 0<N<100:
 	
 		return "2,"+E_INT[:N]
-
-
-
-
-
-
-
